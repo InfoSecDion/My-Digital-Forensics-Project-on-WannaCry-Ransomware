@@ -1,6 +1,9 @@
 # Digital-Forensics-Project-on-WannaCry-Ransomware
 
 # Digital-forensics
+
+![image](https://github.com/user-attachments/assets/f87b38f6-2d02-468d-b767-f886d786cb1d)
+
 ## Description
 Set up an isolated environment to safely execute the WannaCry ransomware, ensuring external systems were not affected.
 
