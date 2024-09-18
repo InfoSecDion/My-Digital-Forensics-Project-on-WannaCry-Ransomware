@@ -2,6 +2,19 @@
 
 # Digital-forensics
 
+![image](https://github.com/user-attachments/assets/293d9c05-aace-4d09-ac78-b2d31a0b08e8)
+
+# Introduction and Background Story:
+
+WannaCry is one of the most notorious ransomware attacks, hitting the world in May 2017. It spread fast, crippling over 200,000 computers in 150 countries, including the UK’s National Health Service. The attack exploited a known vulnerability in Windows (SMB protocol), which had a patch available months before, but many systems hadn’t been updated. The malware used EternalBlue, a leaked NSA exploit, to spread like wildfire through networks.
+
+Even today, WannaCry is a key lesson for cybersecurity. It showed how vital it is to stay on top of patching systems, keeping networks segmented, and having a solid incident response plan in place. Cybersecurity analysts must constantly watch for vulnerabilities and know how to respond quickly to ransomware attacks, which have only gotten more sophisticated since then.
+
+# Overview:
+
+In the digital forensics lab, we use tools like Autopsy to dig into compromised systems, looking for encrypted files and traces of the malware. Volatility helps analyze memory dumps to track how the ransomware worked, especially how it used EternalBlue to move across networks. Understanding how WannaCry operated helps us stay ahead of modern threats and be better prepared to handle future attacks.
+
+
 ![image](https://github.com/user-attachments/assets/f87b38f6-2d02-468d-b767-f886d786cb1d)
 
 ## Description
