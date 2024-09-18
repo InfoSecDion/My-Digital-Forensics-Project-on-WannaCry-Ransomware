@@ -165,3 +165,9 @@ Performed memory forensics using Volatility to capture and analyze RAM dumps, en
  - Document key Indicators of Compromise (IoCs) such as suspicious processes and system modifications.
  
 Through this investigation, I gained valuable insights into WannaCry's propagation methods, encryption tactics, and overall system impact. This project sharpened my skills in both disk and memory forensics, providing a comprehensive understanding of how ransomware operates and how to detect and analyze its behavior in a real-world environment.
+
+## Lessons learned:
+
+Hands-on labs are crucial for security analysts because they replicate real-world attack scenarios, like WannaCry, allowing us to practice how we’d handle them in real time. Theoretical knowledge is great, but actually using tools like Autopsy and Volatility to investigate and respond to incidents gives us the experience we need to react quickly and effectively when something happens.
+
+By working through these scenarios, we build muscle memory for identifying signs of an attack, analyzing compromised systems, and taking the right steps to mitigate the damage.
